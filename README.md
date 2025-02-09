@@ -40,9 +40,9 @@ Apply data transformations or modeling as needed.
 https://drive.google.com/file/d/1pTuJ8mouDl8U8kYYuRoENop7VVo81SPu/view?usp=sharing
 
 # Insights
-McDonald’s Corporation leads in cumulative daily returns, followed by Berkshire Hathaway.
-Starbucks Corporation dominates trading volume with 49.6% of the total.
-Market trends indicate sharp growth in 30-day moving averages post-2000, reflecting industry expansion.
+- McDonald’s Corporation leads in cumulative daily returns, followed by Berkshire Hathaway.
+- Starbucks Corporation dominates trading volume with 49.6% of the total.
+- Market trends indicate sharp growth in 30-day moving averages post-2000, reflecting industry expansion.
 
 # Methodology
 - Data Cleaning: Addressed missing values, anomalies, and outliers in Python.
