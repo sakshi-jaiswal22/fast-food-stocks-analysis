@@ -38,6 +38,7 @@ This project analyzes stock market data for the top 10 fast food giants, offerin
 
 # Power BI Dashboard
 https://drive.google.com/file/d/1pTuJ8mouDl8U8kYYuRoENop7VVo81SPu/view?usp=sharing
+- Dashboard Screenshots: https://drive.google.com/drive/folders/1E9lIxHCl7S1SShZaxIbgbZi1MKNmMDaC?usp=drive_link
 
 # Insights
 - McDonald’s Corporation leads in cumulative daily returns, followed by Berkshire Hathaway.
