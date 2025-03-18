@@ -1,4 +1,4 @@
-# Fast Food Stocks
+# Fast Food Stocks Analysis
 # Overview
 This project analyzes stock market data for the top 10 fast food giants, offering insights into their financial performance, trading activities, and market trends. The dashboard is designed using Power BI, with data preprocessed and stored in MySQL for efficient handling and visualization.
 
