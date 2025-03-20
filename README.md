@@ -2,6 +2,9 @@
 # Overview
 This project analyzes stock market data for the top 10 fast food giants, offering insights into their financial performance, trading activities, and market trends. The dashboard is designed using Power BI, with data preprocessed and stored in MySQL for efficient handling and visualization.
 
+## Walkthrough of the Project
+https://drive.google.com/file/d/16l6OGlZoZSO7a85paXLyM4qA3nBfJEZW/view?usp=sharing
+
 # Key Features
 - Daily Returns and Volume Analysis: Visualizes company-wise performance and trading activity.
 - Stock Price Patterns: Tracks trends with 30-day moving averages.
